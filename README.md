@@ -2,10 +2,6 @@
 
 ![01](https://github.com/roqhdehd502/Branches/blob/master/readme_img/01.jpg?raw=true)
 
-![02](https://github.com/roqhdehd502/Branches/blob/master/readme_img/02.jpg?raw=true)
-
-![03](https://github.com/roqhdehd502/Branches/blob/master/readme_img/03.jpg?raw=true)
-
 ![03](https://github.com/roqhdehd502/Branches/blob/master/readme_img/04.jpg?raw=true)
 
 ![05](https://github.com/roqhdehd502/Branches/blob/master/readme_img/05.jpg?raw=true)
